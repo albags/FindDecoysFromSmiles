@@ -21,9 +21,11 @@ Clone the project on your local machine
 Go to your terminal and run the python file.
 
 For knowing the arguments
+
 `$ python Molecule_decoys.py --help`
 
 Exemples of arguments:
+
 `$ python Molecule_decoys.py -s 'C1=CC=CN=C1' -i smile -I 'c1cccnc1'`
 
 `$ python Molecule_decoys.py -s 'C1=CC=CN=C1' -i txt -I 110000smiles.txt -o txt -O output.txt`
